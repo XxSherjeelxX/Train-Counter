@@ -1,0 +1,55 @@
+body {
+    background-image: url("tom.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    height: 100vh;
+    color: tomato
+}
+
+.container {
+    background: ;
+    
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid yellowgreen;
+    border-radius: 10px;
+}
+
+h1 {
+    color: yellowgreen;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: yellowgreen;
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid yellowgreen;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: orangered;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: greenyellow
+    
+}
+
+#save-btn {
+    background: navy;
+}
+
+#save-el {
+    font-weight: bold;
+}
+
